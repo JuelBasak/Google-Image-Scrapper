@@ -2,4 +2,4 @@
 
 Status : Ongoing
 
-
+A web scrapper built using Python, Flask and Selenium
